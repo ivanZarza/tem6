@@ -4,3 +4,7 @@ creo la  rama main y la  hago  pricipal
 ahora creo git hub 
 ahora le pasola direccion a git 
 y hago  un push a github
+
+una vez haces un  comit  se complica el  tema
+
+probando rama 1

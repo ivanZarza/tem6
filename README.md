@@ -5,10 +5,9 @@ ahora creo git hub
 ahora le pasola direccion a git 
 y hago  un push a github
 
-<<<<<<< HEAD
 una vez haces un  comit  se complica el  tema
 
 probando rama 1
-=======
 probando rama_2
->>>>>>> rama_2
+
+hubo conflicto y tuve que decidir que cambios aceptar
